@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 796.04 936.12">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #036eb8;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 66px;
+      }
+
+      .cls-2 {
+        stroke: #2ea7e0;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="586.71 117.05 494.43 33 33 33 33 902.26 586.71 903.12 586.71 718.55"/>
+  <line class="cls-2" x1="121.99" y1="224.6" x2="763.04" y2="224.6"/>
+  <line class="cls-2" x1="120.34" y1="397.2" x2="693.83" y2="397.2"/>
+  <line class="cls-2" x1="121.17" y1="581.95" x2="600.72" y2="581.95"/>
+  <line class="cls-2" x1="121.17" y1="761.84" x2="491.96" y2="761.84"/>
+</svg>
